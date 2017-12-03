@@ -21,7 +21,7 @@ arise.
 What works
 ==========
 
-* Charlie currently contains 22 neuocognitive tests, with more planned. Each
+* Charlie currently contains 22 neurocognitive tests, with more planned. Each
   test has a docstring with citations; have a look in the `charlie/tests`
   folder to see what's available.
 
